@@ -42,6 +42,7 @@ Proyek ini bertujuan untuk mengklasifikasikan gambar bunga ke dalam lima kategor
    ```python
    model.save('/content/drive/My Drive/Dataset/flowers_cnn_model.h5')
    ```
+    link file: https://drive.google.com/file/d/1-aAQvqByzTfxFw4gfHjtRkBDTD5tOA-7/view?usp=sharing
 
 ## Hasil
 - **Akurasi Validasi Akhir**: ~63%
@@ -60,6 +61,7 @@ tensorboard_logs/
     train/
     validation/
 Screenshot/
+Klasifikasi_Gambar_Bunga.pptx
 SourceCode.ipynb
 ```
 
